@@ -16,7 +16,6 @@ Managed Kubernetes
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) - Alibaba, AWS, Azure, GCP, and OpenStack cluster manager
-  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kommander](https://d2iq.com/solutions/ksphere/kommander) - Federated management and governance for on-prem or cloud Kubernetes clusters
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
@@ -25,6 +24,7 @@ Managed Kubernetes
   - [PKS](https://pivotal.io/platform/pivotal-container-service) - Cluster manager by Pivotal, VMWare and Google
   - [Rancher](https://rancher.com/)
   - [Spectro Cloud](https://www.spectrocloud.com) - Enterprise Kubernetes Management at scale
+  - [Teleport](https://goteleport.com) - Formerly Gravity, Telekube
 
 ### [Developer Platform](#developer-platform)
 
